@@ -1,0 +1,27 @@
+/* Banner text style */
+.hero {
+    height: 600px;
+}
+
+
+
+
+
+/* Nav Responsive */
+@media  screen and (min-width:1px) and (max-width:769px){
+    #nav-1{
+        position: absolute;
+        display: none;
+        margin: 0%;
+        padding: 0%;
+    }
+    
+    
+    
+    .carousel-item{
+        justify-items: center;
+        padding: 10px;
+
+    }
+    
+}
